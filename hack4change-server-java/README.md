@@ -2,7 +2,7 @@
 This is the sample Java server repository for the first Hack4Change workshop. Combined with the Hack4Change client applications, you can use this client as a basis to build your own full stack web application.
 
 # Getting Started
-To start working with this client, do the following:
+To start working with this server project, do the following:
 - Download and install a Java development kit. We recommend that you use the most recent version of Temurin, available at https://adoptium.net/.
 - Download and install the Maven package manager. You can find instructions on how to install and use Maven at https://maven.apache.org/.
 - From this directory, run the `mvn compile` command. This will download your dependencies and then display a confirmation message to indicate that it's been compiled.
