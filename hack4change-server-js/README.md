@@ -1,5 +1,5 @@
 # Hack4Change Workshop Typescript Repository
-This is the sample server repository for the first Hack4Change workshop. Combined with one of the Hack4Change client applications, you can use this server as a basis to build your own full stack web application.
+This is the sample Typescript server repository for the first Hack4Change workshop. Combined with one of the Hack4Change client applications, you can use this server as a basis to build your own full stack web application.
 
 # Getting Started
 To start working with this server project, do the following:
